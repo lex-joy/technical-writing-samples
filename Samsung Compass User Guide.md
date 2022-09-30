@@ -92,6 +92,7 @@ The following information is shown on the compass screen:
 > 
 > If the location information is unavailable, enable the phone’s location services by following the instructions under “Setup.”
 
+<img src="/images/samsung_compass.jpg" width="105" height="500">
 
 # Navigating with the Compass
 
