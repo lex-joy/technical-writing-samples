@@ -72,7 +72,11 @@ Once you have turned around, you can skip this step for the rest of the dive.
 
 Roll both dice. Move your diver in the direction it is facing along the line of chips a number of jumps equal to your roll.
 
-If you are carrying treasure, subtract the number of treasure chips you are carrying from your roll before moving. (**Note: In some cases, you may not be able to move!**)
+If you are carrying treasure, subtract the number of treasure chips you are carrying from your roll before moving.
+
+> **Note**
+> 
+> In some cases, you may not be able to move!
 
 When moving past an chip being explored by another diver, jump over that chip without counting it.
 
