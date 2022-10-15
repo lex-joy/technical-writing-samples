@@ -1,6 +1,6 @@
 # Deep Sea Adventure Instruction Manual
 
-This document provides English instructions for playing [*Deep Sea Adventure*](https://oinkgms.com/en/deep-sea-adventure), a 2- to 6-player game by Jun Sasaki and Goro Sasaki. This adapts the English rules provided with the game for grammar and clarity, and resolves ambiguities present in the original.
+This document provides English instructions for playing [Deep Sea Adventure](https://oinkgames.com/en/games/analog/deep-sea-adventure/), a 2- to 6-player game by Jun Sasaki and Goro Sasaki. This adapts the English rules provided with the game for grammar and clarity, and resolves ambiguities present in the original.
 
 ## Introduction
 
