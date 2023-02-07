@@ -50,7 +50,7 @@ To access the compass:
 
 > **Note**
 > 
-> If the edge panel is unavailable or improperly configured, follow the instructions under “Setup.”
+> If the edge panel is unavailable or improperly configured, follow the instructions under [Setup](#setup).
 
 
 # Configuring the Compass
@@ -62,7 +62,7 @@ The compass app includes configuration mechanisms to ensure that the information
 
 The compass app automatically determines your latitude, longitude, and town/city/country using your phone’s location services.
 
-For instructions on activating your phone’s location services, see “Setup.”
+For instructions on activating your phone’s location services, see [Setup](#setup).
 
 
 ## Calibrating the Compass
@@ -90,7 +90,7 @@ The following information is shown on the compass screen:
 
 > **Note**
 > 
-> If the location information is unavailable, enable the phone’s location services by following the instructions under “Setup.”
+> If the location information is unavailable, enable the phone’s location services by following the instructions under [Setup](#setup).
 
 <img src="/images/samsung_compass.jpg" width="105" height="500">
 
