@@ -3,12 +3,12 @@
 This document describes how to access, configure, and use the built-in compass app on the Samsung Galaxy S20+ 5G (SM-G986U).
 
 
-# Setup
+## Setup
 
 The compass app and its supporting utilities are disabled by default. To enable the compass and ensure its correct functionality, complete the following procedures.
 
 
-## Enabling the Compass
+### Enabling the Compass
 
 1. Swipe down from the top of the screen. The Quick Access menu appears.
 2. In the upper-right of the Quick Access menu, press the **Settings** (⚙) icon. The Settings menu appears.
@@ -20,12 +20,12 @@ The compass app and its supporting utilities are disabled by default. To enable 
 8. In the upper-right of the edge panel, press the **Options** (⋮) icon, then select **Compass**.
 
 
-## Activating Location Services
+### Activating Location Services
 
 The necessary location services can be activated in the phone’s settings, or within the compass app itself.
 
 
-### Using the Phone’s Settings
+#### Using the Phone’s Settings
 
 1. Swipe down from the top of the screen. The Quick Access menu appears.
 2. In the upper-right of the Quick Access menu, press the **Settings** (⚙) icon. The Settings menu appears.
@@ -33,13 +33,13 @@ The necessary location services can be activated in the phone’s settings, or w
 4. In the Location menu, toggle the switch to the “on” position.
 
 
-### Within the Compass App
+#### Within the Compass App
 
 1. On the bottom of the compass screen, press **Settings**. The Location menu is displayed.
 2. In the Location menu, toggle the switch to the “on” position.
 
 
-# Accessing the Compass
+## Accessing the Compass
 
 The compass app is available through the edge panel.
 
@@ -53,19 +53,19 @@ To access the compass:
 > If the edge panel is unavailable or improperly configured, follow the instructions under [Setup](#setup).
 
 
-# Configuring the Compass
+## Configuring the Compass
 
 The compass app includes configuration mechanisms to ensure that the information it provides is as precise as possible. Use the following procedures to configure the compass as needed.
 
 
-## Setting the Location
+### Setting the Location
 
 The compass app automatically determines your latitude, longitude, and town/city/country using your phone’s location services.
 
 For instructions on activating your phone’s location services, see [Setup](#setup).
 
 
-## Calibrating the Compass
+### Calibrating the Compass
 
 The compass app should be calibrated periodically to ensure accurate readings.
 
@@ -77,7 +77,7 @@ To calibrate the compass app:
 When the compass finishes calibrating, it automatically returns to the compass screen.
 
 
-# Reading the Compass
+## Reading the Compass
 
 The compass app simulates several of the major features of a physical compass while displaying key navigation information in an easy-to-read format.
 
@@ -94,7 +94,7 @@ The following information is shown on the compass screen:
 
 <img src="/images/samsung_compass.jpg" width="105" height="500">
 
-# Navigating with the Compass
+## Navigating with the Compass
 
 The compass app is designed to help you maintain a consistent path of travel in environments where it is difficult to keep your destination in sight.
 
